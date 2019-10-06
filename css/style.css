@@ -152,14 +152,14 @@ ol {
 }
 
 .loader {
-	width: 80px;
-	height: 80px;
+	width: 50px;
+	height: 50px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
 	margin-top: -13px;
 	margin-left: -13px;
-	border-radius: 60px;
+	border-radius: 65px;
 	animation: loader 0.8s linear infinite;
 	-webkit-animation: loader 0.8s linear infinite;
 }
